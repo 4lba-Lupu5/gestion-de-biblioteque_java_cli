@@ -1,4 +1,3 @@
-//package bibliotheque;
 import java.util.*;
 import java.io.*;
 import bibliopack.*;
@@ -19,7 +18,7 @@ public class Bibliotheque {
 		System.out.println("Bienvenu dans notre programme de gestion de biblioteque: Biblio-Gest \n \n");
 		do {
 			
-		System.out.println("********** Programme Biblio*Gest ********** \n");
+		System.out.println("********** Programme Biblio-Gest ********** \n");
 		System.out.println("1---Ajout de livre ");
 		System.out.println("2---Ajout d'abonne(e) ");
 		System.out.println("3---Affichage un livre specifique");
